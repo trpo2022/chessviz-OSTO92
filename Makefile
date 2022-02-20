@@ -1,5 +1,5 @@
 #Makefile
-main: main.c
+main: chess.c
 	gcc -Wall -Werror -o chess chess.c
 clean:
 	rm main
