@@ -1,5 +1,4 @@
-*.txt 
-*.o
-*main
-*.Makefile.swp
-main.c~ 
+/* .o 
+/.main.c.swp
+/main.c~ 
+chess
